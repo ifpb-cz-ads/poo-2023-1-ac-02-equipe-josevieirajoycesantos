@@ -1,10 +1,13 @@
 Atividade Colaborativa Semana 02
 
 ***Questão 01***
-R: 
+R: A JVM nada mais é do que uma máquina virtual que serve como emulador para as aplicações. Em outras palavras a JVM serve para nós garantir que as aplicações que desenvolvemos seram executadas sem nenhum empecilho em qualquer sistema operacional. 
 
 ***Questão 02***
-R: 
+R: O JRE: O Java Runtime Environment contém tudo aquilo que um usuário comum precisa para executar uma aplicação Java;
+Já o JDK: O Java Development Kit é composto pelo JRE e um conjunto de ferramentas úteis ao desenvolvedor Java.
+Resumidamente o JRE é voltado para o usuário que utilizará mais a parte da execução do programa e o JDK para desenvolvedores que abrange o que está contido no JRE e várias outras funcionalidades 
+
 
 ***Questão 03***
 R: O arquivo .java está no repositório.
